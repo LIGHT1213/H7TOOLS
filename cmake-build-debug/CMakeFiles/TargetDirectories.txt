@@ -1,0 +1,3 @@
+/home/lightp/stm32/project/NUCLEO-H7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lightp/stm32/project/NUCLEO-H7/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lightp/stm32/project/NUCLEO-H7/cmake-build-debug/CMakeFiles/NUCLEO-H7.elf.dir

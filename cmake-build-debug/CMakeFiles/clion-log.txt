@@ -1,0 +1,5 @@
+/snap/clion/152/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/home/lightp/stm32/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/arm-none-eabi-gcc -DCMAKE_CXX_COMPILER=/home/lightp/stm32/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/arm-none-eabi-g++ -G "CodeBlocks - Unix Makefiles" /home/lightp/stm32/project/NUCLEO-H7
+-- Minimal optimization, debug info included
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/lightp/stm32/project/NUCLEO-H7/cmake-build-debug
